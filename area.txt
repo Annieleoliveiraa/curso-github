@@ -1,2 +1,3 @@
 Estou estudando sobre git e github!
 Estudos diários sobre git e github. 
+Vamos aprender sobre tecnologia 
